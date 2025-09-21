@@ -2,6 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
+import poetry from './poetry.vue'
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -13,5 +14,6 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     // ...
+    app.component('poetry',poetry)
   }
 }

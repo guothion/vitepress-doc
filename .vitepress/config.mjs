@@ -13,7 +13,7 @@ export default defineConfig({
         ['link', { rel: 'icon', href: './public/favicon.ico' }]
     ],
     themeConfig: {
-        logo: './public/logo.png',
+        logo: './public/cat-ico.png',
         // https://vitepress.dev/reference/default-theme-config
         nav: [
             { text: 'HomePage', link: '/' },
@@ -60,7 +60,7 @@ export default defineConfig({
             provider: 'local'
         },
         footer: {
-            message: 'guothion©china'
+            message: '谁能书阁下，白首太玄经'
         },
     }
 })
