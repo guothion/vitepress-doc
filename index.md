@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "学习文档"
-  text: "前端学习笔记"
-  tagline: guothion的全栈路
+  name: "Fast to flop, slow to learn"
+  text: "光速躺平，缓慢学习"
+  tagline: guothion的学习笔记
   actions:
     - theme: brand
       text: 个人介绍
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Canvas从入门到实战
-    details: 从 0 开始学习Canvas到精通图形学
+  - title: Golang学习
+    details: 从 0 开始学习Golang
   - title: 数据结构和算法
     details: 基本算法介绍以及例题讲解
-  - title: Node 学习
-    details: 作为一个全栈工程师，熟练使用Node还是很重要的
+  - title: 英语学习
+    details: 熟练掌握社交英语
 ---
 
